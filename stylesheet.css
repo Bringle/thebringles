@@ -7,7 +7,7 @@ div {
 }
 #mainpara {
 	text-align: center;
-	font-style: Garamond;
+	font-family: Garamond, Georgia, serif;
 	border-top: 10px double #63AA9C;
 	border-bottom: 10px double #63AA9C;
 	width: 800px;
@@ -20,7 +20,7 @@ div {
 
 h4 {
 	text-align: center;
-	font-style: Garamond;
+	font-family: Garamond, Georgia, serif;
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
@@ -104,20 +104,20 @@ h1 {
 }
 #header p {
 	text-align: center;
-	font-family: Futura;
+	font-family: Futura, "Century Gothic";
 	color: #ECEAE0;
 
 }
 #footer p {
 	text-align: center;
-	font-family: Futura;
+	font-family: Futura, "Century Gothic";
 	color: #ECEAE0;
 }
 p a {
 	text-decoration: none;
 	color: #ECEAE0;
 	font-size: 10px;
-	font-family: Futura;
+	font-family: Futura, "Century Gothic";
 }
 a {
 	text-decoration: none;
